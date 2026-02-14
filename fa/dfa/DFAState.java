@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 import fa.State;
 
+// dfa state class
 public class DFAState extends State{
 
     private boolean isFinal;
